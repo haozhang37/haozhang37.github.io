@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ### Biography
-Currently, I am an undergraduate student in the [School of Electronic Information and Electrical Engineering](http://en.sjtu.edu.cn/academics/schools/the-school-of-electronic-information-and-electrical-engineering/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I will receive the B.Eng. degree in June, 2020. Then I will pursue the M.Eng. degree under the professor [Quanshi Zhang](http://qszhang.com/) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of Shanghai Jiao Tong University.
+Currently, I am a master student in the [School of Electronic Information and Electrical Engineering](http://en.sjtu.edu.cn/academics/schools/the-school-of-electronic-information-and-electrical-engineering/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am working in the lab of the professor [Quanshi Zhang](http://qszhang.com/) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of Shanghai Jiao Tong University.
+I will receive the M.Eng. degree in March, 2023.
 
 ### Research Interests
 My research interests include
